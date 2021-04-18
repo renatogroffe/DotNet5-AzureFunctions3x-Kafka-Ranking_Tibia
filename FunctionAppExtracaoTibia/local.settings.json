@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "EndpointTibia": "https://api.tibiadata.com/v2/highscores/Antica.json",
+    "BaseTibia": "DBTibia",
+    "CollectionRanking": "Ranking",
+    "DBTibiaEndpointUri": "",
+    "DBTibiaEndpointPrimaryKey": "",
+    "BrokerKafka": "",
+    "UserKafka": "$ConnectionString",
+    "PasswordKafka": "",
+    "TopicKafka": "Tibia",
+    "EndpointSlack": ""
+  }
+}
